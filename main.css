@@ -1,7 +1,7 @@
 div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
-  display: inline; /* a way of positioning elements */
+  display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
   min-height: 25em; /* of the divs oblong*/
   border-radius: 50%; /* this makes the normally square div round */
